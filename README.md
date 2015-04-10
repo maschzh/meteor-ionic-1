@@ -17,6 +17,7 @@ It is best supported with used in combination with the [angular-meteor library](
 
 ## Official release
 This repository is a replication of a pull request I've made to Ionic to release thier own Meteor package themselves.
+I'm keeping the repo updated with every new Ionic release and publish the package to Meteor myself .
 
 You can support this pull request here:
 https://github.com/driftyco/ionic/pull/3133
